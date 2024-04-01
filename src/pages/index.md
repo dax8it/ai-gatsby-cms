@@ -1,50 +1,29 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: There Will Come Soft Rain
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: AI conversation with conscience
+subheading: Support advancing the arts, technology and humanity
 mainpitch:
-  title: Why Kaldi
+  title: Humanity
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Our mission is to foster a community that embraces the potential of technology while remaining grounded in our collective consciousness. Together, we can create a future where technology serves as a tool for growth and connection, rather than a replacement for the human experience.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Stay up-to-date with the latest news, thought-provoking articles, and engaging discussions on our blog. Connect with like-minded individuals who share your passion for a balanced approach to technology and humanity. Join the conversation today and help shape a future that embraces technology without losing our humanity.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Art, a timeless expression of the human spirit, has woven itself into the fabric of history, leaving indelible marks on civilizations as they rise and fall. It captures the essence of our collective experiences, reflecting our triumphs, tragedies, and everything in between. As we delve into the intricacies of integrating AI into this rich tapestry, we tread a delicate balance, ensuring that the soul of art - the very human condition that makes it so - remains at the heart of our explorations. After all, the beauty of art lies not just in its creation, but in the shared emotions and insights it elicits, transcending the boundaries of time and technology.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        In the rapidly evolving landscape of artificial intelligence, we stand at the precipice of a revolution that will reshape the world as we know it. As AI technologies advance, they promise unprecedented opportunities for growth and progress. However, it is crucial that we approach these developments with caution and thoughtfulness, ensuring that the protection of humanity remains at the forefront of our endeavors. By embracing AI responsibly and ethically, we can harness its potential to create a future where both humans and technology thrive in harmony.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        In the realm of music, AI integration has opened up a world of possibilities, from enhancing production and mastering processes to revolutionizing the way we discover and experience music. AI technologies have the potential to streamline tasks, allowing artists to focus on their creative process. However, it's crucial to strike a balance between embracing AI and preserving the authenticity and human experience that make music truly magical.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        In the age of AI, avatars, chatbots, and AI companions are transforming our social landscape, offering new avenues for communication, companionship, and self-expression. These innovations have the potential to revolutionize industries, from healthcare to education, and even redefine our understanding of human relationships. As we navigate this brave new world, it's crucial to strike a balance between embracing AI's potential and preserving the authenticity and human experience that make our connections truly meaningful.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
