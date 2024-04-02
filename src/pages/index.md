@@ -29,7 +29,7 @@ intro:
         condition that makes it so - remains at the heart of our explorations.
         After all, the beauty of art lies not just in its creation, but in the
         shared emotions and insights it elicits, transcending the boundaries of
-        time and technology.
+        time and technology. www.alexcovo.com
     - image: /img/coffee-gear.png
       text: >
         In the rapidly evolving landscape of artificial intelligence, we stand
