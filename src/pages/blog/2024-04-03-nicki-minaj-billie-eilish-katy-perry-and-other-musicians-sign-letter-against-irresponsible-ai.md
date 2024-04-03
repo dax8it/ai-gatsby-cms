@@ -10,5 +10,7 @@ description: >-
   Image Credits: Dia Dipasupil / Staff / Getty Images
 featuredpost: true
 featuredimage: https://techcrunch.com/wp-content/uploads/2024/04/nicki-minaj.jpg?w=1390&crop=1
+tags:
+  - music
 ---
 <https://tcrn.ch/43GFNog>
