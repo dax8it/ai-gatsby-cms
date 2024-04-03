@@ -9,7 +9,7 @@ description: |-
   This is a featured post
 featuredpost: true
 featuredimage: /img/avatar-ai.png
-tags: []
+tags: [ai, music, art, nft, llm, agents]
 ---
 # This is  a Heading of Body
 
