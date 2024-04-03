@@ -49,7 +49,8 @@ const BlogRollTemplate = (props) => {
                 </p>
               </header>
               <p>
-                {post.excerpt}
+                {post.frontmatter.description}
+              {/* {post.excerpt} This is orginal code */}
                 <br />
                 <br />
                 <Link className="button" to={post.fields.slug}>
@@ -83,7 +84,7 @@ export default function BlogRoll() {
           ) {
             edges {
               node {
-                excerpt(pruneLength: 400)
+                excerpt(pruneLength: 150)
                 id
                 fields {
                   slug
@@ -93,6 +94,7 @@ export default function BlogRoll() {
                   templateKey
                   date(formatString: "MMMM DD, YYYY")
                   featuredpost
+                  description
                   featuredimage {
                     childImageSharp {
                       gatsbyImageData(
