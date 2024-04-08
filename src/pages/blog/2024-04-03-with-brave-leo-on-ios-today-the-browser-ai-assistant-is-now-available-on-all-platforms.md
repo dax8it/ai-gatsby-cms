@@ -3,8 +3,7 @@ templateKey: blog-post
 title: With Brave Leo on iOS today, the browser AI assistant is now available on
   all platforms
 date: 2024-04-03T13:33
-description: >-
-  We just launched Brave's built-in AI Leo on iOS! 🥳
+description: We just launched Brave's built-in AI Leo on iOS! 🥳
 
 
   With Leo now on all platforms, you'll have this helpful and privacy-preserving assistant available at home, the office, and anywhere else.

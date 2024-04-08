@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Many-shot jailbreaking
 date: 2024-04-03T12:07
-description: >
+description: > 
   New Anthropic research paper: Many-shot jailbreaking.
 
 

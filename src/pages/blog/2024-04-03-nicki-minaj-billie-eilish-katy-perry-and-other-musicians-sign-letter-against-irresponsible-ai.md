@@ -3,9 +3,7 @@ templateKey: blog-post
 title: Nicki Minaj, Billie Eilish, Katy Perry and other musicians sign letter
   against irresponsible AI
 date: 2024-04-03T01:03
-description: >-
-  A group of 200 musicians signed an open letter calling on tech companies and
-  developers to not undermine human creativity with AI music generation tools.
+description: A group of 200 musicians signed an open letter calling on tech companies and developers to not undermine human creativity with AI music generation tools.
 
   Image Credits: Dia Dipasupil / Staff / Getty Images
 featuredpost: true
